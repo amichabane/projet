@@ -1,0 +1,19 @@
+.logo {
+    float: left;
+    flex: auto;
+    flex-wrap: wrap;
+    items-align: center;
+    width: 150px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+
+}
+
+.ant-row-rtl .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+}
+
+.site-layout-background {
+    background: #fff;
+}
